@@ -15,4 +15,4 @@
 <img src="https://github.com/masen0university/Lang-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
-This aims at creating resourceful articles that assist in advanced tech ideas and insights some of which might be made private.
+This aims to create resourceful articles that assist in advanced tech ideas and insights some of which might be made private.
